@@ -5,11 +5,10 @@ Jetson 보드에서 objet detection 활용한 간단한 프로젝트 진행
 ## 최적화 환경 세팅 및 Some Tips!
 
 torch, torchvision은 아래링크에서
+
 https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048
 
-
 Ultralytics는 가장 최신 받아도 상관 없지만
-
 Ultralytics 깔면서 자동으로 Numpy 업그레이드 되는데 보드의 tensorrt 버전에 맞춰서 1.21.6으로 다운그레이드
 
 onnx랑 onnx 깔때 알아서 깔리는 protobuf는 최신이어도 무관. onnxslim도 그냥 최신
