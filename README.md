@@ -1,6 +1,6 @@
 # NVIDIA Jetson Orin NX TensorRT 활용
 
-Jetson 보드에서 objet detection 활용한 간단한 프로젝트 진행
+- Jetson 보드에서 objet detection 활용한 간단한 프로젝트 진행
 
 ## 최적화 환경 세팅 및 변환 팁
 
