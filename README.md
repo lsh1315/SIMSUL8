@@ -2,7 +2,7 @@
 
 - Jetson 보드에서 objet detection 활용한 간단한 프로젝트 진행
 
-## 최적화 환경 세팅 및 변환 팁
+## 💻 최적화 환경 세팅 및 변환 팁
 
 - torch, torchvision은 링크에서
 https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048
