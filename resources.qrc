@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="helmet">
+    <file>helmet.png</file>
+  </qresource>
+  <qresource prefix="head">
+    <file>man-hair.png</file>
+  </qresource>
+</RCC>
