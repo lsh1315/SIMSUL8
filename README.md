@@ -1,4 +1,6 @@
-# NVIDIA Jetson Orin NX 환경에서 객체 탐지 AI 최적화 환경 세팅 
+# NVIDIA Jetson Orin NX TensorRT 활용
+
+## 최적화 환경 세팅 및 꿀팁
 
 torch, torchvision은 링크에서
 https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048
